@@ -69,7 +69,7 @@ export const InjectLogger = (cls: Type<unknown>): ParameterDecorator =>
 
 ```
 
-This decorator will allow us to inject the logger so we can replace the implementation later on without having to change our class.We'll see its usage in a bit. 
+This decorator will allow us to inject the logger so we can replace the implementation later on without having to change our class. We'll see its usage in a bit. 
 
 Finally we can define our dynamic module. 
 ```

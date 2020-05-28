@@ -1,0 +1,22 @@
+{
+  "name": "nest-module-examples",
+  "version": "1.0.0",
+  "description": "Examples for nest modules and DI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doug-martin/nest-module-examples.git"
+  },
+  "author": "Doug Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doug-martin/nest-module-examples/issues"
+  },
+  "homepage": "https://github.com/doug-martin/nest-module-examples#readme",
+  "devDependencies": {
+    "@nestjs/cli": "^7.2.0"
+  }
+}
